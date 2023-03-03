@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://project1-laravel.izztorich.com/laravel'),
+    'url' => env('APP_URL', 'https://project1-laravel.izztorich.com'),
 
     'asset_url' => env('ASSET_URL'),
 
@@ -121,7 +121,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY','vpgoqrhynyirl1enldcz5hadkvn0p34l'),
+    'key' => env('APP_KEY','yo7zni8y2kho1mzhjlm0n5bj7rin6xfz'),
 
     'cipher' => 'AES-256-CBC',
 
